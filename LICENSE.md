@@ -1,0 +1,228 @@
+# PYRA LICENSE
+
+## Version 1.0 — AI & Data License
+
+**Copyright (c) 2026 Pyra Labs and respective copyright holders.**
+
+---
+
+## 1. Definitions
+
+For the purposes of this License:
+
+**"Model"** means any artificial intelligence model, including, but not limited to, weights, parameters, checkpoints, configuration files, vocabulary, tokenizer, model architecture, model-specific code, and related components distributed under this License.
+
+**"Dataset"** means any dataset, training examples, records, samples, files, metadata, or other data distributed under this License.
+
+**"Material"** means, collectively, the Model, Dataset, or any other material expressly identified as being distributed under this License.
+
+**"Derivative"** means any Model, Dataset, or other material created from the original Material, including modified, fine-tuned, trained, adapted, combined, or transformed versions.
+
+**"License"** means this Pyra License, Version 1.0.
+
+**"You"** means any individual or legal entity exercising rights granted by this License.
+
+---
+
+## 2. Permissions
+
+Subject to the terms and conditions of this License, You are granted a worldwide, royalty-free, non-exclusive, irrevocable license to:
+
+* use the Material for any lawful purpose;
+* run, test, and evaluate the Model;
+* use the Model to generate content;
+* use the Model in applications, services, products, and systems;
+* train, fine-tune, adapt, or otherwise modify the Model;
+* use the Dataset for training, research, evaluation, and development;
+* copy the Material;
+* modify the Material;
+* create Derivatives;
+* combine the Material with other models, datasets, or systems;
+* distribute the original Material;
+* distribute modified versions or Derivatives;
+* use the Material commercially or non-commercially;
+* sell products, services, models, datasets, or applications that incorporate or use the Material; and
+* sublicense or distribute Derivatives, provided that the requirements of this License are respected.
+
+No additional authorization from Pyra Labs is required for the uses expressly permitted by this Section.
+
+---
+
+## 3. Commercial Use
+
+The Material may be used for commercial purposes without the payment of royalties or obtaining additional authorization from Pyra Labs.
+
+This includes, but is not limited to:
+
+* commercial products;
+* commercial applications;
+* APIs;
+* inference services;
+* AI-powered services;
+* developer tools;
+* research products;
+* derivative models;
+* derivative datasets;
+* systems trained using the Material; and
+* other products or services that use the Material.
+
+---
+
+## 4. Datasets and Training
+
+The Dataset may be used as part of training, fine-tuning, evaluation, or research processes for artificial intelligence models.
+
+Models trained or fine-tuned using the Dataset are considered Derivatives only when the resulting work substantially incorporates protected Material or when the distributor expressly identifies the Model as a Derivative.
+
+The mere fact that a Model was trained using the Dataset does not grant the distributor the right to remove the license notices or requirements applicable to the Dataset itself.
+
+---
+
+## 5. Redistribution
+
+When redistributing the original Material or a Derivative, You must:
+
+1. include a copy of this License;
+2. retain existing copyright, attribution, and license notices;
+3. clearly indicate when significant modifications have been made; and
+4. not intentionally remove or conceal the identification of this License.
+
+The License may be included in a `LICENSE` file, `README`, model card, dataset card, documentation, metadata, or another reasonable location accompanying the Material.
+
+---
+
+## 6. Identification of Derivatives
+
+When distributing a modified, fine-tuned, adapted, or otherwise derivative version of the Material, You must reasonably indicate that it is not the original version.
+
+This may be done through:
+
+* a different name;
+* a different version number;
+* a description in the model card or dataset card;
+* documentation;
+* a modification notice; or
+* another reasonable method of identification.
+
+You are not required to obtain approval from Pyra Labs to create or distribute a Derivative.
+
+---
+
+## 7. Restrictions
+
+You may not:
+
+1. intentionally remove or conceal this License when redistributing the Material where this License is required to accompany it;
+2. distribute the Material without the notices required by this License;
+3. use the Material for a criminal or unlawful purpose;
+4. knowingly use the Material to facilitate, commit, or materially assist criminal activity;
+5. knowingly use the Material to cause unlawful harm to a person or property; or
+6. falsely represent a Derivative as the original Material.
+
+Nothing in this Section prohibits lawful research, development, testing, evaluation, auditing, security research, education, or analysis.
+
+---
+
+## 8. Generated Content
+
+Pyra Labs does not automatically claim copyright ownership over content generated by a Model solely because the Model was used to generate such content.
+
+Ownership and copyrightability of generated content depend on applicable law and the circumstances under which the content was created.
+
+This License does not grant rights to third-party content, data, or materials that may be generated, processed, or reproduced by the Model.
+
+---
+
+## 9. Third-Party Data and Rights
+
+The Material may contain or interact with data, works, trademarks, information, or other materials belonging to third parties.
+
+This License does not grant additional rights to third-party materials that are not owned by the respective copyright or rights holders.
+
+You are responsible for determining and complying with applicable rights and legal obligations regarding Your use of the Material and any third-party content.
+
+---
+
+## 10. Trademarks and Branding
+
+This License does not grant permission to use the trademarks, logos, trade names, or other brand identifiers of Pyra Labs, its projects, or affiliated organizations.
+
+"Pyra Labs", "Pyra", and their respective logos and marks remain subject to the rights of their respective owners.
+
+Using the name of a Model to accurately identify the Material or indicate compatibility does not, by itself, constitute a grant of trademark rights.
+
+---
+
+## 11. Disclaimer of Warranty
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF QUALITY, PERFORMANCE, SECURITY, ACCURACY, RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+
+PYRA LABS DOES NOT WARRANT THAT THE MODEL OR DATASET:
+
+* will produce correct results;
+* will produce safe results;
+* will be free from bias or errors;
+* will be continuously available;
+* will be suitable for any particular purpose; or
+* will produce results that meet the user's expectations.
+
+---
+
+## 12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PYRA LABS AND THE OTHER COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES, CLAIMS, OR OTHER LIABILITY ARISING FROM THE USE, DISTRIBUTION, MODIFICATION, TRAINING, OR OTHER USE OF THE MATERIAL.
+
+---
+
+## 13. Compliance With Law
+
+This License does not grant permission to violate any applicable law or regulation.
+
+You remain responsible for Your use of the Material and must comply with all laws applicable to such use.
+
+Where any provision of this License conflicts with a mandatory provision of applicable law, the mandatory law shall prevail to the extent necessary to resolve the conflict.
+
+---
+
+## 14. Termination
+
+The rights granted under this License automatically terminate if You materially violate its terms.
+
+The rights may be restored if the violation is permanently cured within a reasonable period, where permitted by applicable law.
+
+Termination shall not affect the rights of persons or entities who validly received the Material and remain in compliance with this License.
+
+---
+
+## 15. Acceptance
+
+By using, copying, modifying, training, distributing, or otherwise exercising any rights granted by this License, You accept and agree to its terms.
+
+If You do not agree to this License, You may not exercise the rights granted by it.
+
+---
+
+## 16. License Version
+
+This document constitutes:
+
+**Pyra License 1.0 — AI & Data**
+
+Future versions of the Pyra License may contain different terms.
+
+Material explicitly distributed under **Pyra License 1.0** shall remain governed by Version 1.0 unless the respective copyright holder expressly states otherwise.
+
+---
+
+## 17. Recommended Notice
+
+Projects distributed under this License may use the following notice:
+
+> **This Material is distributed under the Pyra License 1.0 — AI & Data.**
+> Copyright (c) 2026 Pyra Labs and respective copyright holders.
+
+---
+
+**END OF PYRA LICENSE 1.0**
