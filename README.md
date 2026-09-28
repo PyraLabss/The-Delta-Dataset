@@ -1,4 +1,5 @@
 ---
+license: pyra
 task category:
 - text-generation
 language:
