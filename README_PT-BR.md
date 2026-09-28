@@ -1,22 +1,10 @@
 ---
+licensa: pyra
 categoria de objetivo:
 - texto-para-texto
 idiomas:
 - pt
 - en
----
-
----
-
-license: mit
-task_categories:
-
-* text-generation
-  language:
-* pt
-* en
-  pretty_name: The Delta Dataset
-
 ---
 
 # The Delta Dataset V2
